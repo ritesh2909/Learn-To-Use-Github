@@ -41,7 +41,9 @@
 | Md. Almas Ali                                          | Web Developer            |
 | Coding-Boon                                            | Learn Python             |
 | Deepanshu Mittal                                       | Python                   |            
+|Ritesh Arora                                            |Software Developer        |
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
+
 | _Your Name_                                            | _Intrests_               |
  
 
